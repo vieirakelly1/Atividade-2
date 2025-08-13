@@ -1,13 +1,8 @@
-senha=input('digite a sua senha')
+print("OLA MUNDO")
 
-senhaCorreta='casarosa'
 
-print(senha==senhaCorreta)
 
-# SE
-if senha==senhaCorreta:
-    print('acesso permitido')
 
-# SENAO
-else:
-    print('acesso negado')
+nome =input("digite o seu nome ")
+
+print(nome)
